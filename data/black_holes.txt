@@ -1,0 +1,13 @@
+Black Holes: The Most Extreme Objects in the Universe
+
+A black hole is a region of spacetime where gravity is so intense that nothing — not even light or electromagnetic radiation — can escape once it crosses the boundary known as the event horizon. Black holes are predicted by Albert Einstein's general theory of relativity, which describes gravity as the curvature of spacetime caused by mass and energy.
+
+Black holes form primarily through the gravitational collapse of massive stars. When a star with more than about 20-25 times the mass of the Sun exhausts its nuclear fuel, it can no longer support itself against gravitational collapse. The core implodes, and if the remaining mass exceeds the Tolman-Oppenheimer-Volkoff limit (roughly 2-3 solar masses), no known force can prevent it from collapsing into a singularity — a point of theoretically infinite density.
+
+There are several types of black holes. Stellar black holes, formed from collapsed stars, typically have masses between 5 and 100 solar masses. Supermassive black holes, found at the centers of most galaxies, have masses ranging from millions to billions of solar masses. The supermassive black hole at the center of our Milky Way galaxy, called Sagittarius A*, has a mass of about 4 million solar masses.
+
+The event horizon is the defining feature of a black hole. It is not a physical surface but rather the boundary beyond which the escape velocity exceeds the speed of light. For a non-rotating black hole (Schwarzschild black hole), the radius of the event horizon is given by the Schwarzschild radius: Rs = 2GM/c², where G is the gravitational constant, M is the mass, and c is the speed of light.
+
+Stephen Hawking theorized that black holes are not entirely black. Through a quantum mechanical process known as Hawking radiation, black holes can slowly emit thermal radiation and gradually lose mass over extremely long timescales. This discovery was groundbreaking because it connected quantum mechanics with general relativity, two pillars of modern physics that are otherwise difficult to reconcile.
+
+Black holes can also be detected through their effects on nearby matter. When material falls toward a black hole, it forms an accretion disk — a swirling disk of superheated gas that emits intense X-ray radiation. The first image of a black hole's shadow was captured in 2019 by the Event Horizon Telescope collaboration, showing the supermassive black hole at the center of galaxy M87.
