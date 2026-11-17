@@ -7,3 +7,5 @@ venv/
 ENV/
 .env
 .pytest_cache/
+chroma_db/
+
