@@ -12,6 +12,7 @@ from contextlib import asynccontextmanager
 from typing import Optional
 
 from fastapi import FastAPI
+from fastapi.responses import RedirectResponse
 from pydantic import BaseModel, Field
 
 from graph import run_router_graph, _init_collections
@@ -98,6 +99,12 @@ async def ask_router(body: QuestionInput):
     """
     result = run_router_graph(body.question)
     return RouterResponse(**result)
+
+
+@app.get("/", include_in_schema=False)
+async def root():
+    """Redirect root path to interactive Swagger documentation."""
+    return RedirectResponse(url="/docs")
 
 
 @app.get("/health", tags=["Health"])
